@@ -22,3 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wrexik&repo=gcodie&theme=radical&" />
   <a><-- this will be awesome! 😜</a>
 </a>
+
+
+<a>
+  <img alt="GitHub Views counter" src="https://komarev.com/ghpvc/?username=wrexik">
+</a>
