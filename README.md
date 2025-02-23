@@ -4,7 +4,7 @@
 
 - Owner of Esteris.eu 🌙 WIP
 - I like to code Python, HTML, CSS and C++
-- I edit videos and little bit of fotography with my Canon M50 📸
+- I edit videos and little bit of fotography with my S24 Ultra
 - I also like to play with linux 🐧 and do simulations and animations in blender, building computers and 3D printing ✨
 - Pretty mutch everything around computers 💻
 - My new hobby are custom keyboards ⌨️😍
